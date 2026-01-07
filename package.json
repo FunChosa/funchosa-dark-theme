@@ -1,0 +1,51 @@
+{
+  "name": "funchosa-dark",
+  "displayName": "Funchosa Dark",
+  "description": "A warm dark theme with rose-gold tones, designed for eye comfort and long coding sessions",
+  "version": "1.0.0",
+  "publisher": "funchosa",
+  "author": {
+    "name": "Funchosa"
+  },
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "warm",
+    "rose",
+    "eye comfort",
+    "low blue light",
+    "vue",
+    "react",
+    "typescript"
+  ],
+  "galleryBanner": {
+    "color": "#1f1d2e",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Funchosa Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/funchosa-dark.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FunChosa/funchosa-dark-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/FunChosa/funchosa-dark-theme/issues"
+  },
+  "homepage": "https://github.com/FunChosa/funchosa-dark-theme#readme"
+}
