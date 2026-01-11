@@ -1,8 +1,8 @@
 {
   "name": "funchosa-dark",
-  "displayName": "Funchosa Dark",
+  "displayName": "Funchosa Dark Theme",
   "description": "A warm dark theme with rose-gold tones, designed for eye comfort and long coding sessions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "funchosa",
   "author": {
     "name": "Funchosa"
@@ -25,7 +25,8 @@
     "low blue light",
     "vue",
     "react",
-    "typescript"
+    "typescript",
+    "funchosa"
   ],
   "galleryBanner": {
     "color": "#1f1d2e",
@@ -34,7 +35,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Funchosa Dark",
+        "label": "Funchosa Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/funchosa-dark.json"
       }

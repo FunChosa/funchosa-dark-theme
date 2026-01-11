@@ -1,11 +1,11 @@
-# 🌸 Funchosa Dark
+# 🍜 Funchosa Dark Theme
 
 A warm dark theme with rose-gold tones, designed for eye comfort and long coding sessions.
 
 ![Preview](https://raw.githubusercontent.com/FunChosa/funchosa-dark-theme/main/assets/screenshots/full-editor.png)
 ## Features
 
-- 🌸 **Warm color palette** — reduced blue light for evening coding
+- 🌼 **Warm color palette** — reduced blue light for evening coding
 - 👁️ **Eye comfort** — scientifically balanced contrast (WCAG AA compliant)
 - 🎨 **Bracket colorization** — 6 distinct colors for nested brackets
 - ⚡ **Semantic highlighting** — enhanced TypeScript/JavaScript support
@@ -24,9 +24,9 @@ A warm dark theme with rose-gold tones, designed for eye comfort and long coding
 ## Installation
 
 1. Open **Extensions** in VS Code (`Cmd+Shift+X` / `Ctrl+Shift+X`)
-2. Search for `Funchosa Dark`
+2. Search for `Funchosa Dark Theme`
 3. Click **Install**
-4. Press `Cmd+K Cmd+T` / `Ctrl+K Ctrl+T` and select **Funchosa Dark**
+4. Press `Cmd+K Cmd+T` / `Ctrl+K Ctrl+T` and select **Funchosa Dark Theme**
 
 ## Color Palette
 
@@ -70,6 +70,8 @@ MIT © Funchosa
 
 ---
 
-**Enjoy coding with Funchosa Dark!** 🌸
+Icon by [Freepik - Flaticon](https://www.flaticon.com/free-icons/ramen)
+
+**Enjoy coding with Funchosa Dark Theme!** 
 
 If you like this theme, please ⭐ star the repo!
